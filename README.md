@@ -1,6 +1,6 @@
 # Sigma - Sistema de Gestão Medica e Atendimento
 
-Um aplicativo web para gerenciar sua estante virtual de livros online.
+Um aplicativo web para gerenciar o agendamento do hospital municipal.
 
 ## Tecnologias
 
